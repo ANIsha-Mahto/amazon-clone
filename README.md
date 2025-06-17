@@ -35,6 +35,7 @@ amazon-clone/
 
 🚀 How to View Live
 This site is hosted with GitHub Pages.
+
 🌐 Live Link: https://your-username.github.io/amazon-clone
 
 
